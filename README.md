@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
- This is Smita Gogia Kinger updating the new repositoty. 
+This is Smita Gogia Kinger creating and updating new repositoty.
